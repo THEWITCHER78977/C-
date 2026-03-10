@@ -1,0 +1,4 @@
+﻿  Algorithm#21.cpp
+C:\Users\HP 830 G8 I5 8eme\Desktop\C++\Algorithms\Algorithm#21\Algorithm#21\Algorithm#21.cpp(17,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP 830 G8 I5 8eme\Desktop\C++\Algorithms\Algorithm#21\Algorithm#21\Algorithm#21.cpp(19,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Algorithm#21.vcxproj -> C:\Users\HP 830 G8 I5 8eme\Desktop\C++\Algorithms\Algorithm#21\x64\Debug\Algorithm#21.exe

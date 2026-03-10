@@ -1,0 +1,5 @@
+﻿  Algorithm#20.cpp
+C:\Users\HP 830 G8 I5 8eme\Desktop\C++\Algorithms\Algorithm#20\Algorithm#20\Algorithm#20.cpp(19,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP 830 G8 I5 8eme\Desktop\C++\Algorithms\Algorithm#20\Algorithm#20\Algorithm#20.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP 830 G8 I5 8eme\Desktop\C++\Algorithms\Algorithm#20\Algorithm#20\Algorithm#20.cpp(22,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Algorithm#20.vcxproj -> C:\Users\HP 830 G8 I5 8eme\Desktop\C++\Algorithms\Algorithm#20\x64\Debug\Algorithm#20.exe
